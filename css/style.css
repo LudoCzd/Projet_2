@@ -381,7 +381,7 @@ a {
 /* Medium devices (tablets, less/equal than 1024px) */
 @media (max-width: 1024px) and (min-width: 767.98px) {
   .filtres_categorie {
-    font-size: 15px;
+    font-size: 16px;
   }
   .input-search input {
     width: 200px;
@@ -528,7 +528,11 @@ a {
   .filtres_categorie {
     display: flex;
     width: 120px;
-    gap: 8px;
+    gap: 5px;
+    font-size: 14px;
+  }
+  .filtres_categorie i {
+    font-size: 18px;
   }
   .hebergements-and-populaires {
     display: flex;
