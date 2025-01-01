@@ -10,7 +10,8 @@ nav {
 
 .logo img {
   max-width: 4em;
-  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 .lien-header {
   display: flex;
@@ -429,6 +430,9 @@ a {
   }
   .activites img {
     height: 200px;
+  }
+  .activites {
+    margin-bottom: 80px;
   }
   footer ul {
     padding-right: 100px;
