@@ -603,9 +603,13 @@ a {
     gap: 15px;
   }
   footer {
+    margin-top: 70px;
     flex-direction: column;
   }
+  footer ul {
+    padding: 0;
+  }
   footer li {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
