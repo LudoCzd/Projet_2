@@ -101,6 +101,9 @@ h3 {
   align-items: center;
   padding-right: 10px;
 }
+.toutes_cases {
+  display: flex;
+}
 .cases_premiere_ligne,
 .cases_deuxieme_ligne {
   display: flex;
@@ -380,6 +383,13 @@ a {
 /****** Media queries ***********/
 /* Medium devices (tablets, less/equal than 1024px) */
 @media (max-width: 1024px) and (min-width: 767.98px) {
+  .filtres {
+    display: flex;
+    flex-direction: column;
+  }
+  .toutes_cases {
+    display: flex;
+  }
   .filtres_categorie {
     font-size: 16px;
   }
