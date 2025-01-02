@@ -530,6 +530,10 @@ a {
     display: flex;
     flex-direction: column;
   }
+  .toutes_cases {
+    display: flex;
+    flex-direction: column;
+  }
   .cases_premiere_ligne,
   .cases_deuxieme_ligne {
     display: flex;
