@@ -51,7 +51,7 @@ h3 {
 .intro-titre {
   margin-bottom: 30px;
 }
-.input-search {
+.input-search form {
   height: 50px;
   display: flex;
 }
