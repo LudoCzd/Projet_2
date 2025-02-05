@@ -29,12 +29,12 @@ nav {
 .lien-hebergements:hover {
   border-top: 2px solid #0065fc;
   color: #0065fc;
-  padding-top: 8px;
+  padding-top: 9px;
 }
 .lien-activites:hover {
   border-top: 2px solid #0065fc;
   color: #0065fc;
-  padding-top: 8px;
+  padding-top: 9px;
 }
 /*Fin header*/
 /*Début main */
@@ -98,7 +98,7 @@ h3 {
   align-items: center;
   padding-right: 10px;
 }
-.toutes_cases {
+.totalCases {
   display: flex;
 }
 .cases_premiere_ligne,
@@ -384,7 +384,7 @@ a {
     display: flex;
     flex-direction: column;
   }
-  .toutes_cases {
+  .totalCases {
     display: flex;
   }
   .filtres_categorie {
@@ -527,7 +527,7 @@ a {
     display: flex;
     flex-direction: column;
   }
-  .toutes_cases {
+  .totalCases {
     display: flex;
     flex-direction: column;
   }
