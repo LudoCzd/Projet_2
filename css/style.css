@@ -489,10 +489,12 @@ a {
   }
 
   .lien-hebergements:hover {
+    padding-top: 10px;
     border-top: none;
     border-bottom: solid 2px #0065fc;
   }
   .lien-activites:hover {
+    padding-top: 10px;
     border-top: none;
     border-bottom: solid 2px #0065fc;
   }
